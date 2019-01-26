@@ -74,15 +74,26 @@
 
 :heavy_check_mark: [arrow](https://arrow.readthedocs.io/en/latest/]
 
-:heavy_check_mark: [requests](http://docs.python-requests.org/en/master/)
-
 :heavy_check_mark: [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 :heavy_check_mark: [flask](http://flask.pocoo.org/)
 
+:heavy_check_mark: [numba](http://numba.pydata.org/)
+
+:heavy_check_mark: [requests](http://docs.python-requests.org/en/master/)
+
+
 ---
 
-:snake: [pytorch](https://pytorch.org/)
+:snake: [cython](https://cython.org/)
+
+:snake: [torch](https://pytorch.org/)
+
+:snake: [torchvision](https://pytorch.org/docs/stable/torchvision/index.html)
+
+:snake: [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+
+:snake: [tensorboardX](https://github.com/lanpa/tensorboardX)
 
 ---
 
@@ -92,6 +103,6 @@
 
 :star: [pandas](https://pandas.pydata.org/)
 
-:star: [sklearn](https://scikit-learn.org/)
+:star: [scikit-learn](https://scikit-learn.org/)
 
 :star: [xgboost](https://xgboost.readthedocs.io/en/latest/)
