@@ -66,9 +66,9 @@
 
 ### Third party
 
-:heavy_multiplication_x: [pybind11](https://pybind11.readthedocs.io/en/master/) (:heavy_multiplication_x:): Seamless operability between C++11 and Python. Python binder for Cpp code
+:heavy_multiplication_x: [pybind11](https://pybind11.readthedocs.io/en/master/): Seamless operability between C++11 and Python. Python binder for Cpp code
 
-:heavy_multiplication_x: [setuptools](https://github.com/pypa/setuptools) (:heavy_multiplication_x:): Easily download, build, install, upgrade, and uninstall Python packages
+:heavy_multiplication_x: [setuptools](https://github.com/pypa/setuptools): Easily download, build, install, upgrade, and uninstall Python packages
 
 ---
 
